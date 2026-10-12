@@ -1,0 +1,27 @@
+{
+  "id": "poster-studio",
+  "name": "Poster Studio · 地图海报",
+  "version": "0.5.0",
+  "description": "Create city map posters with live map selection, editable print scale, custom colors and place markers. Export vector SVG or 300 dpi PNG, and import offline city data packages. Chinese interface.",
+  "author": "Pbaoyi",
+  "homepage": "https://github.com/Pbaoyi/geolibre-poster-studio",
+  "repository": "https://github.com/Pbaoyi/geolibre-poster-studio",
+  "issues": "https://github.com/Pbaoyi/geolibre-poster-studio/issues",
+  "license": "MIT",
+  "manifestUrl": "plugins/poster-studio/plugin.json",
+  "source": {
+    "url": "https://github.com/Pbaoyi/geolibre-poster-studio/releases/download/v0.5.0/poster-studio-0.5.0.zip",
+    "sha256": "d2c9d979c15ad86ff6d6e9510c970dcdb437f4ace7b8b906d44b0bd2092ee363"
+  },
+  "screenshots": [
+    {
+      "path": "screenshots/overview.jpg",
+      "caption": "Nanjing neighborhood print with map selection, print scale and live poster preview"
+    }
+  ],
+  "categories": [
+    "Cartography",
+    "Visualization"
+  ],
+  "minGeoLibreVersion": "3.3.0"
+}
