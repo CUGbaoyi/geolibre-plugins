@@ -19,9 +19,6 @@
       "caption": "Nanjing neighborhood print with map selection, print scale and live poster preview"
     }
   ],
-  "categories": [
-    "Cartography",
-    "Visualization"
-  ],
+  "categories": ["Cartography", "Visualization"],
   "minGeoLibreVersion": "3.3.0"
 }
